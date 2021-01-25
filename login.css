@@ -1,6 +1,6 @@
 body{
-    background-image: url(Image/img12.jpg) no-repeat;
-    background-size: cover;
+    background-image: url(Image/img12.jpg);
+/*     background-size: cover; */
 }
 .form{
     background-color: rgba(0, 0, 0, 0.5);
