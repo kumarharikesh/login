@@ -1,14 +1,14 @@
 body{
     background-image: url(Image/img12.jpg);
+    font-family: monospace;
 /*     background-size: cover; */
 }
 .form{
     background-color: rgba(0, 0, 0, 0.5);
-    height: 230px;
-    width: 350px;
+    max-width: 350px;
     margin: 0 auto;
-    /* margin-top: 10px; */
-    padding:5px 50px;
+    margin-top: 50px;
+    padding:5px 50px 20px;
     border-radius: 15px;
     font-size: 18px;
     box-shadow: inset -4px -4px rgba(0, 0, 0, 0.5);
@@ -19,7 +19,7 @@ body{
     margin: border radius 15px;
     font-weight: bolder;
     color: white;
-    opacity: 0.7;
+    opacity: 0.9;
 }
 .form input[type="text"]{
     height: 35px;
